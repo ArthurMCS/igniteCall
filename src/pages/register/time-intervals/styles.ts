@@ -40,6 +40,7 @@ export const IntervalInputs = styled('div', {
 })
 
 export const FormError = styled(Text, {
-  color: '#f75168',
-  marginTop: '$4',
+  color: '#f75a68',
+  marginBottom: '$4',
+  textAlign: 'center',
 })
